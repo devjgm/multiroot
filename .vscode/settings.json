@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.check.overrideCommand": [
+        "blah I am top root"
+    ]
+}
